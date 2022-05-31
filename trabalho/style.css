@@ -1,0 +1,28 @@
+
+
+.sidebar {
+   float:left;
+  width: 200px;                 
+  height: 0px;
+  background-color: #ffffff;
+}
+.page {
+  width: 1100px;
+  margin: 20 auto;
+}
+.content {
+  float: right ;                  
+  width: 660px;
+  height: 550px;
+  background-color: #fafafa;
+ border: 3px solid #e87373;
+}
+
+.content-bar {
+  float:left ;                  
+  width: 660px;
+  height: 500px;
+  background-color: #69c8f7;
+ border: 3px solid #4100f5;
+}
+
